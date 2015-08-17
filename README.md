@@ -1,4 +1,4 @@
-# GoDadddy CNAME
+# GoDaddy CNAME
 
 ## Description
 

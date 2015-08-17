@@ -1,6 +1,6 @@
 {
   "name": "godaddy-cname",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Helper for GoDaddy CNames",
   "main": "index.js",
   "scripts": {
