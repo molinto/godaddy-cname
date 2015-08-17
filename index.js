@@ -5,9 +5,9 @@ var credentials = {
 };
 
 var cname = {
-    'host': 'woodentoys',
-    'pointsto': 'woodentoys.activehosted.com',
-    'ttl': 600
+    'host': '',
+    'pointsto': '',
+    'ttl': 600 // 10 mins
 };
 
 
