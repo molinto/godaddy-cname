@@ -1,0 +1,1 @@
+var goDaddyCname = require('../lib')('USERNAME', 'PASSWORD', 'DOMAIN');
