@@ -4,7 +4,9 @@
   "description": "Helper for GoDaddy CNames",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "keywords": [
     "domain",
@@ -23,8 +25,10 @@
   "license": "MIT",
   "dependencies": {
     "nightmare": "^1.8.2",
-    "phantomjs": "^1.9.18"
+    "phantomjs": "^1.9.18",
+    "snyk": "^1.316.1"
   },
   "homepage": "https://github.com/molinto/godaddycname#readme",
-  "devDependencies": {}
+  "devDependencies": {},
+  "snyk": true
 }
