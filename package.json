@@ -23,7 +23,7 @@
   "license": "MIT",
   "dependencies": {
     "nightmare": "^1.8.2",
-    "phantomjs": "^1.9.18"
+    "phantomjs": "^2.1.1"
   },
   "homepage": "https://github.com/molinto/godaddycname#readme",
   "devDependencies": {}
