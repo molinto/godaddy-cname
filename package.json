@@ -22,7 +22,7 @@
   "author": "Sharry Stowell <sharry@molinto.com>",
   "license": "MIT",
   "dependencies": {
-    "nightmare": "^1.8.2",
+    "nightmare": "^2.0.0",
     "phantomjs": "^1.9.18"
   },
   "homepage": "https://github.com/molinto/godaddycname#readme",
